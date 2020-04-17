@@ -5,7 +5,6 @@ import './App.css';
 
 //Components
 import Character from './components/Character'
-//import SearchBar from './components/SearchBar'
 
 //Styles for components
 const Div = styled.div`
